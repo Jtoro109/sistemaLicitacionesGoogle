@@ -1,0 +1,6 @@
+**/*.md
+node_modules/**
+tsconfig.json
+package.json
+package-lock.json
+.gitignore  
